@@ -1,0 +1,12 @@
+{
+    "name": "painel-dlx/dlx-ui",
+    "description": "Micro framework para criação de temas",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Lepera",
+            "email": "dlepera88@gmail.com"
+        }
+    ]
+}
