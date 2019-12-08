@@ -1,6 +1,6 @@
 {
     "name": "painel-dlx/dlx-ui",
-    "description": "Micro framework para criação de temas",
+    "description": "Micro framework para criação de temas para o Painel DLX",
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [

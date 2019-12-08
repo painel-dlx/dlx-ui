@@ -1,0 +1,12 @@
+%icone-pre {
+    &::before {
+        // Texto
+        font-family: $font-dingbat;
+
+        // Alinhamento
+        vertical-align: middle;
+
+        // Margens
+        margin-right: 3px;
+    }
+}
